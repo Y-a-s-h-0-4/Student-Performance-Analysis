@@ -1,4 +1,4 @@
-# Student-Performance-Analysis
+# Student Performance Analysis
 
 ## Overview
 This project aims to revolutionize educational analytics by leveraging Power BI for dynamic data visualization. It offers real-time insights into student performance, facilitating proactive interventions and informed decision-making.
